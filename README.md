@@ -60,7 +60,7 @@ HOW TO REACH THE OWNER?
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Kingpin Tech App..
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 KINGPIN 𝙈𝘿
 
